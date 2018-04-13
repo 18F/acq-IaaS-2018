@@ -14,7 +14,7 @@ GSA TTS use a number of different resources obtained through the AWS IaaS, many 
 
 2. [RFQ Pricing Template](RFQ_IaaS_Pricing Template.xlsx)
 
-3. [Limited Sources Justification - Items Peculiar to one Manufacturer](GSA CA Signature - Limited Sources Justification.pdf)
+3. [Limited Sources Justification - Items Peculiar to one Manufacturer](GSA_CA_Signed_LSJ.pdf)
 
 ## Contributing
 
