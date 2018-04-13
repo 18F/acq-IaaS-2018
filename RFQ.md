@@ -104,7 +104,7 @@ discount and the schedule contract discount represents the overall
 billing discount the Government. Price quotations shall be submitted
 through the [<span class="underline">Pricing Template - GSA TTS GSA
 TTS-wide IaaS
-RFQ</span>](https://docs.google.com/spreadsheets/d/1W1tP6-3ZvW4pdS_rs1J5fJV6Iws6LNewoTUceT9CwKg/edit#gid=0).
+RFQ</span>](RFQ_IaaS_Pricing%20Template.xlsx).
 
 ## 1.2 Questions
 
