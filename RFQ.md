@@ -24,36 +24,34 @@ Transformation Services (TTS)
 **Contract Vehicle:** GSA Schedule 70 Special Item Number (SIN) 132 40
 Cloud
 
-[<span class="underline">1.0 Instructions</span>](#instructions)
+[<span class="underline">1.0 Instructions</span>](#10-instructions)
 
-[<span class="underline">2.0 Background</span>](#background)
+[<span class="underline">2.0 Background</span>](#20-background)
 
-[<span class="underline">3.0 Requirement</span>](#requirement)
+[<span class="underline">3.0 Requirement</span>](#30-requirement)
 
 [<span class="underline">4.0 Statement of
-Need</span>](#statement-of-need)
+Need</span>](#40-statement-of-need)
 
-[<span class="underline">5.0 Deliverables</span>](#_7z11mi618sh8)
+[<span class="underline">5.0 Evaluation and Basis of
+Award</span>](#50-evaluation-and-basis-of-award)
 
-[<span class="underline">6.0 Evaluation and Basis of
-Award</span>](#evaluation-and-basis-of-award)
+[<span class="underline">6.0 Period of
+Performance</span>](#60-period-of-performance)
 
-[<span class="underline">7.0 Period of
-Performance</span>](#period-of-performance)
+[<span class="underline">7.0 Type of Contract</span>](#70-type-of-contract)
 
-[<span class="underline">8.0 Type of Contract</span>](#type-of-contract)
+[<span class="underline">8.0 Invoicing</span>](#80-invoicing)
 
-[<span class="underline">9.0 Invoicing</span>](#invoicing)
+[<span class="underline">9.0 Administration</span>](#09-administration)
 
-[<span class="underline">10.0 Administration</span>](#administration)
+[<span class="underline">10.0 Post Award and Kickoff
+Meeting</span>](#100-post-award-and-kickoff-meeting)
 
-[<span class="underline">11.0 Post Award and Kickoff
-Meeting</span>](#post-award-and-kickoff-meeting)
+[<span class="underline">11.0 TTS Transparency
+Policy</span>](#110-tts-transparency-policy)
 
-[<span class="underline">12.0 TTS Transparency
-Policy</span>](#tts-transparency-policy)
-
-[<span class="underline">13.0 Clauses</span>](#clauses)
+[<span class="underline">12.0 Clauses</span>](#120-clauses)
 
 # 1.0 Instructions
 
@@ -237,7 +235,7 @@ acceptable quote and posted using the GSA e-Buy award notice feature.
 The Period of Performance (“POP”) is one base period of 12 months and
 one option period of 12 months.
 
-# 8.0 Type of Contract
+# 7.0 Type of Contract
 
 Time & Material (T\&M)
 
@@ -284,11 +282,11 @@ performance period may be deobligated through a bilateral modification;
 inclusion of this funding in the following performance period is subject
 to budget approval based on appropriations and fiscal constraints.
 
-# 9.0 Invoicing
+# 8.0 Invoicing
 
 The contractor shall submit a proper invoice on a monthly basis.
 
-## 9.1 Content of Invoice
+## 8.1 Content of Invoice
 
 The following information shall be provided on the invoice:
 
@@ -328,7 +326,7 @@ final invoice submission. With the submission of a final invoice, a
 completed and signed Release of Claims (GSA Form 1142) shall be provided
 to the CO.
 
-## 9.2 Invoice Submission
+## 8.2 Invoice Submission
 
 The contractor is required to submit invoices to GSA Vendor Customer
 Self Service (VCSS) and the Contracting Officer Representative (COR).
@@ -341,7 +339,7 @@ All invoicing questions can be directed to customer support at
 GSA TTS is unable to address any questions related to the invoicing
 system.
 
-# 10.0 Administration
+# 9.0 Administration
 
 This acquisition will be administered by the following individuals, who
 will also monitor contractor performance:
@@ -353,9 +351,9 @@ will also monitor contractor performance:
 3.  > GSA TTS Contracting Officer Representative: To be provided at time
     > of award.
 
-# 11.0 Post Award and Kickoff Meeting
+# 10.0 Post Award and Kickoff Meeting
 
-## 11.1 Post Award Orientation Conference
+## 10.1 Post Award Orientation Conference
 
 The government's team, CO/COR, and the TTS Product Owner will hold a
 kickoff meeting/post-award conference with the contractor within 5
@@ -365,7 +363,7 @@ include the contractor’s team and other relevant government staff to
 review and clarify the project’s objectives, expectations from the
 government, and address any questions the contractor may have.
 
-## 11.2 Option Year Requirement
+## 10.2 Option Year Requirement
 
 If provided the notification of intent to exercise the option year, the
 Contractor shall submit within 1 day after notification the AWS
@@ -376,11 +374,11 @@ reseller and that they offer all AWS IaaS suites in all 3 FedRAMP
 approved AWS regions, including AWS East/West, AWS GovCloud, AWS
 GovCloud High.
 
-## 11.3 Travel
+## 10.3 Travel
 
 No travel is anticipated or will be required as part of this task order.
 
-## 11.4 Transition Activities
+## 10.4 Transition Activities
 
 The vendor will be provided a two-week transition period (after the
 kick-off meeting). During the transition the awardee will be required to
@@ -389,7 +387,7 @@ activities will include, but not be limited to:
 
   - > Continuation of full services to TTS and customers.
 
-# 12.0 TTS Transparency Policy
+# 11.0 TTS Transparency Policy
 
 Vendors are advised that TTS reserves the right to publish documents
 associated with this requirement on a publicly-available website,
@@ -407,7 +405,7 @@ of price). During the performance of this task order, TTS may similarly
 publish data related to project management (e.g. user stories,
 milestones, and performance metrics) and top-line spending data.
 
-# 13.0 Clauses
+# 12.0 Clauses
 
 **FAR 52.252-1 - Solicitation Provisions Incorporated by Reference (Feb
 1998)**
