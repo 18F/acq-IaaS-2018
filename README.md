@@ -12,7 +12,7 @@ GSA TTS use a number of different resources obtained through the AWS IaaS, many 
 
 1. [Request for Quotation (RFQ)](RFQ.md)
 
-2. [RFQ Pricing Template](RFQ_IaaS_Pricing_Template.xlsx)
+2. [RFQ Pricing Template](RFQ_IaaS_Pricing%20Template.xlsx)
 
 3. [Limited Sources Justification - Items Peculiar to one Manufacturer](GSA_CA_Signed_LSJ.pdf)
 
