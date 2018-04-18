@@ -76,8 +76,7 @@ Contracting Officer (CO) in writing before submitting a quotation.
 **Technical Submittal:**
 
 Vendors shall submit their AWS Authorized Government Reseller letter
-(this letter shall confirm the Vendor is an AWS Partner Network (APN)
-Advanced Consulting Partner and an Authorized Government Reseller) to
+(this letter shall confirm the Vendor is an an AWS Partner Network (APN) Consulting Partner at the Standard level or higher and an Authorized Government Reseller) to
 demonstrate they are an authorized Government reseller and that they
 offer all AWS IaaS suites in all 3 FedRAMP approved AWS regions,
 including AWS East/West, AWS GovCloud, AWS GovCloud High for the base
